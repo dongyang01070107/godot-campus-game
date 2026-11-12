@@ -1,0 +1,8 @@
+# Godot generated files
+.godot/
+
+# Local Godot installation
+/tools/godot/
+
+# Import metadata created from exported Web icons
+/docs/*.import
